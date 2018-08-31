@@ -1,0 +1,40 @@
+button {
+    border-radius: 3px;
+    margin: 5px;
+    background-color: teal;
+    color: lightblue;
+}
+
+#addTo {
+    border-radius: 3px;
+    background-color: teal;
+    color: lightblue;
+    width: 100%;
+    margin: 0 auto;    
+}
+
+#buttonSpot {
+    margin: 0 auto;
+    width: 95%;
+}
+
+#container {
+    width: 1020px;
+    height: 100%;
+}
+
+#gifSpot {
+    width: 87%;
+    height: 600px;
+    float: left;
+}
+
+#formDiv {
+    width: 13%;
+    float: left;
+}
+
+input {
+    margin: 0 auto;
+}
+
